@@ -5,9 +5,10 @@
 }
 body{
     font-family: sans-serif;
+    background-color: #eee;
 }
 nav{
-    background-color: white;
+    background-color: #eee;
     height: 68px;
     position: fixed;
     width: 100vw;
